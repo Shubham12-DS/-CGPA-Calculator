@@ -55,8 +55,7 @@ A simple, interactive **CGPA and SGPA calculator** built in Python. This tool al
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/Shubham12-DS/cgpa-calculator.git
-    cd cgpa-calculator
+    https://github.com/Shubham12-DS/-CGPA-Calculator
     ```
 
 2. **Run the script**:
